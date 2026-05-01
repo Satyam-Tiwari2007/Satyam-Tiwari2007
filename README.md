@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me
-🎓 B.Tech CSE Student at IILM University  
+🎓 B.Tech CSE Student at IILM University greater noida
 💡 Passionate about building real-world, data-driven solutions  
 📊 Interested in Software development, Data Analysis, AI, and Scalable Web Systems  
 
