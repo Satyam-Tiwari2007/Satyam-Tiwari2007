@@ -1,4 +1,5 @@
-# <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Satyam+Tiwari;B.Tech+CSE+Student;Software+Development+%7C+Data+Analysis+%7C+AI" />
+# <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Satyam+Tiwari;Future+Software+Engineer;Machine+Learning+%7C+AI+Enthusiast;Building+Real-World+Projects+🚀" />
+
 
 ---
 
