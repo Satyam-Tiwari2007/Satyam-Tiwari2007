@@ -33,14 +33,14 @@ Machine Learning • Data Analysis • RapidMiner • Git • GitHub
 
 ## 💼 Experience
 
-### 🎨 UI/UX Design Intern – EduSkills (Month YYYY – Month YYYY)
+## 🎨 UI/UX Design Intern – EduSkills (April 2026 – June 2026)
 
-*Conducted user research and analyzed user requirements to improve product usability.
-*Created wireframes, user flows, and low-fidelity prototypes for web and mobile interfaces.
-*Designed high-fidelity UI screens following modern design principles and accessibility guidelines.
-*Built interactive prototypes and iterated designs based on user feedback.
-*Collaborated on design thinking activities to deliver user-centered digital experiences.
-*Used Figma (and other UI/UX design tools, if applicable) for interface design and prototyping.
+- Conducted user research to understand user needs and improve overall user experience.
+- Designed wireframes, user flows, and interactive prototypes for web and mobile applications.
+- Created modern, user-friendly interfaces following usability and accessibility principles.
+- Built high-fidelity UI designs and refined them through iterative feedback.
+- Applied design thinking methodologies to solve real-world user problems.
+- Used **Figma** for UI design, prototyping, and collaborative design workflows.
 
 ---
 
