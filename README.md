@@ -33,13 +33,14 @@ Machine Learning • Data Analysis • RapidMiner • Git • GitHub
 
 ## 💼 Experience
 
-### 📊 Data Science Intern – EduSkills (Jan 2026 – Mar 2026)
+### 🎨 UI/UX Design Intern – EduSkills (Month YYYY – Month YYYY)
 
-* Worked on data preprocessing, cleaning, and transformation
-* Built ML models using classification, regression & clustering
-* Performed data analysis and visualization using Python
-* Applied feature engineering and model validation techniques
-* Used RapidMiner for workflow automation and model building
+*Conducted user research and analyzed user requirements to improve product usability.
+*Created wireframes, user flows, and low-fidelity prototypes for web and mobile interfaces.
+*Designed high-fidelity UI screens following modern design principles and accessibility guidelines.
+*Built interactive prototypes and iterated designs based on user feedback.
+*Collaborated on design thinking activities to deliver user-centered digital experiences.
+*Used Figma (and other UI/UX design tools, if applicable) for interface design and prototyping.
 
 ---
 
