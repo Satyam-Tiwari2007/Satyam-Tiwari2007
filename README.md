@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE Student at IILM University (CGPA: 9.37)
+🎓 B.Tech CSE Student at IILM University (CGPA: 9.42)
 💡 Passionate about building real-world, data-driven solutions
 
 * 🔍 Strong problem-solving mindset using data & technology
