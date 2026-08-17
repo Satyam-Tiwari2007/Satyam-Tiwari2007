@@ -27,7 +27,7 @@ HTML • CSS • JavaScript • Node.js
 
 ### 📊 Data & Tools
 
-Machine Learning • Data Analysis • RapidMiner • Git • GitHub
+Artificial Intelligence • Machine Learning • Data Analysis • RapidMiner • Git • GitHub
 
 ---
 
