@@ -3,7 +3,9 @@
 <!-- ======================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,45&height=220&section=header&text=Satyam%20Tiwari&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20Machine%20Learning&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Satyam-Tiwari2007/Satyam-Tiwari2007/main/assets/banner.svg" width="100%" alt="Header Banner" />
+</div>
 
   <br />
 
