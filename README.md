@@ -119,15 +119,41 @@
 <!-- EXPERIENCE                                              -->
 <!-- ======================================================= -->
 
-## 💼 Experience
-├── 🏢 EduSkills — UI/UX Design Intern
-│   ├── 📅 Duration: April 2026 – June 2026
-│   ├── 📍 Domain: User Experience Architecture & Accessible Interface Design
-│   └── 🛠️ Core Deliverables:
-│       ├── Executed user research sessions and synthesized actionable insights into user journeys.
-│       ├── Engineered low-to-high fidelity wireframes and interactive prototypes in Figma.
-│       ├── Applied design thinking methodologies to streamline information architecture.
-│       └── Standardized WCAG accessibility compliance across user interaction funnels.
+<!-- ======================================================= -->
+<!-- EXPERIENCE                                              -->
+<!-- ======================================================= -->
+
+## 💼 Professional Experience
+
+<table width="100%">
+  <tr>
+    <td>
+      <div align="left">
+        <h3>🎨 UI/UX Design Intern &bull; EduSkills</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Duration-April%202026%20--%20June%202026-0284c7?style=flat-square&logo=calendar&logoColor=white" alt="Duration" />
+          <img src="https://img.shields.io/badge/Domain-UX%20Architecture%20%26%20Design%20Systems-1e293b?style=flat-square&logo=figma&logoColor=white" alt="Domain" />
+          <img src="https://img.shields.io/badge/Standard-WCAG%202.1%20Compliant-10b981?style=flat-square&logo=w3c&logoColor=white" alt="Standard" />
+        </p>
+        <ul>
+          <li><strong>User Research &amp; Synthesis:</strong> Conducted quantitative user research and usability evaluations, translating customer behavioral data into high-conversion journey maps and user personas.</li>
+          <li><strong>Interface Prototyping:</strong> Engineered multi-screen low-fidelity wireframes and responsive, high-fidelity interactive prototypes in <strong>Figma</strong> for desktop and mobile viewports.</li>
+          <li><strong>Information Architecture:</strong> Applied design thinking frameworks to restructure complex navigation hierarchies, reducing cognitive load across core user flows.</li>
+          <li><strong>Accessibility &amp; Design Systems:</strong> Audited visual assets against <strong>WCAG 2.1 AA</strong> contrast and accessibility guidelines to ensure inclusive interaction touchpoints.</li>
+        </ul>
+        <p>
+          <strong>Core Tooling:</strong> 
+          <code>Figma</code> 
+          <code>Design Systems</code> 
+          <code>Wireframing</code> 
+          <code>Prototyping</code> 
+          <code>Accessibility (a11y)</code> 
+          <code>Usability Testing</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 <br />
