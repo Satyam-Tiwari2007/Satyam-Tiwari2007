@@ -3,11 +3,7 @@
 <!-- ======================================================= -->
 
 <div align="center">
-  <div align="center">
- <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Satyam%20Tiwari&text2=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20Machine%20Learning&width=800&height=210&theme=dark" width="100%" alt="Header" />
-</p>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,45&height=220&section=header&text=Satyam%20Tiwari&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20Undergraduate%20-%20Backend%20and%20Machine%20Learning&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
   <br />
 
@@ -117,9 +113,6 @@
 </div>
 
 <br />
-<!-- ======================================================= -->
-<!-- EXPERIENCE                                              -->
-<!-- ======================================================= -->
 
 <!-- ======================================================= -->
 <!-- EXPERIENCE                                              -->
@@ -153,10 +146,27 @@
           <code>Usability Testing</code>
         </p>
       </div>
+      <hr />
+      <div align="left">
+        <h3>📊 Data Science Intern &bull; EduSkills (Altair Data Science Program)</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Focus-Predictive%20Modeling%20%26%20Data%20Pipelines-f59e0b?style=flat-square&logo=python&logoColor=white" alt="Focus" />
+        </p>
+        <ul>
+          <li>Formulated end-to-end data pipelines for preprocessing, normalization, and outlier detection across complex datasets.</li>
+          <li>Constructed predictive analytical workflows leveraging Altair RapidMiner alongside Python numerical analysis toolkits.</li>
+        </ul>
+        <p>
+          <strong>Core Tooling:</strong> 
+          <code>Python</code> 
+          <code>Altair RapidMiner</code> 
+          <code>Data Cleansing</code> 
+          <code>Statistical Analysis</code>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
-
 
 <br />
 
@@ -344,16 +354,6 @@
       </td>
     </tr>
   </table>
-
-  <br />
-
-  <a href="https://github.com/Satyam-Tiwari2007">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam-Tiwari2007&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=0284c7&point=e2e8f0" width="95%" alt="Commit Activity Graph" />
-  </a>
-
-  <br /><br />
-
-  <img src="https://raw.githubusercontent.com/Satyam-Tiwari2007/Satyam-Tiwari2007/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake Animation" />
 </div>
 
 <br />
@@ -433,11 +433,3 @@
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,45&height=90&section=footer" width="100%" alt="Footer" />
 </div>
-
-
-
-
-
-
-
-
