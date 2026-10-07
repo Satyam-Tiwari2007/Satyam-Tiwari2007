@@ -4,7 +4,9 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Satyam-Tiwari2007/Satyam-Tiwari2007/main/assets/banner.svg" width="100%" alt="Header Banner" />
+ <p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Satyam%20Tiwari&text2=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20Machine%20Learning&width=800&height=210&theme=dark" width="100%" alt="Header" />
+</p>
 </div>
 
   <br />
