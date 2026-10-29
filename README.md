@@ -43,7 +43,7 @@
 <!-- ABOUT ME                                                -->
 <!-- ======================================================= -->
 
-## 📌 About Me
+## About Me
 
 <table>
   <tr>
@@ -79,7 +79,7 @@
 <!-- TECH STACK                                              -->
 <!-- ======================================================= -->
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
   <table border="0">
@@ -118,13 +118,13 @@
 <!-- EXPERIENCE                                              -->
 <!-- ======================================================= -->
 
-## 💼 Professional Experience
+## Professional Experience
 
 <table width="100%">
   <tr>
     <td>
       <div align="left">
-        <h3>🎨 UI/UX Design Intern &bull; EduSkills</h3>
+        <h3> UI/UX Design Intern &bull; EduSkills</h3>
         <p>
           <img src="https://img.shields.io/badge/Duration-April%202026%20--%20June%202026-0284c7?style=flat-square&logo=calendar&logoColor=white" alt="Duration" />
           <img src="https://img.shields.io/badge/Domain-UX%20Architecture%20%26%20Design%20Systems-1e293b?style=flat-square&logo=figma&logoColor=white" alt="Domain" />
@@ -148,7 +148,7 @@
       </div>
       <hr />
       <div align="left">
-        <h3>📊 Data Science Intern &bull; EduSkills (Altair Data Science Program)</h3>
+        <h3> Data Science Intern &bull; EduSkills (Altair Data Science Program)</h3>
         <p>
           <img src="https://img.shields.io/badge/Focus-Predictive%20Modeling%20%26%20Data%20Pipelines-f59e0b?style=flat-square&logo=python&logoColor=white" alt="Focus" />
         </p>
@@ -174,13 +174,13 @@
 <!-- FEATURED PROJECTS                                       -->
 <!-- ======================================================= -->
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>💉 Vaccine Demand Prediction</h3>
+        <h3> Vaccine Demand Prediction</h3>
       </div>
       <p>
         A machine learning pipeline designed to predict daily footfall at vaccination centers based on demographic density and historical administration logs. Enables predictive resource scheduling to curb inventory wastage.
@@ -196,7 +196,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>♻️ Bhumi — Smart Waste Platform</h3>
+        <h3> Bhumi — Smart Waste Platform</h3>
       </div>
       <p>
         Full-stack smart sanitation platform integrating image-based classification for recyclable materials, real-time citizen disposal reporting, and an automated conversational assistant for local recycling guidelines.
@@ -214,7 +214,7 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🐅 Wildlife Corridor Analysis</h3>
+        <h3> Wildlife Corridor Analysis</h3>
       </div>
       <p>
         Spatial and statistical analysis system cross-referencing wildlife migration routes against civil infrastructure footprints. Generates risk-zone indicators to inform ecological conservation and urban development policy.
@@ -230,7 +230,7 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>⚡ NetSage AI &amp; Platform Prototypes</h3>
+        <h3> NetSage AI &amp; Platform Prototypes</h3>
       </div>
       <p>
         Architected AI-assisted operational workflows and systems instrumentation projects, emphasizing automated troubleshooting networks, structured logging, and robust API endpoints.
@@ -253,7 +253,7 @@
 <!-- CERTIFICATIONS                                          -->
 <!-- ======================================================= -->
 
-## 📜 Verified Certifications
+##  Verified Certifications
 
 <div align="center">
   <table border="0">
@@ -296,7 +296,7 @@
 <!-- CODING PROFILES & LEETCODE                              -->
 <!-- ======================================================= -->
 
-## 💻 Competitive Programming & Problem Solving
+## Competitive Programming & Problem Solving
 
 <div align="center">
   <a href="https://leetcode.com/u/Satyam_Tiwari2007/">
@@ -324,7 +324,7 @@
 <!-- GITHUB METRICS & ANALYTICS                              -->
 <!-- ======================================================= -->
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/Satyam-Tiwari2007">
@@ -362,12 +362,12 @@
 <!-- CURRENT FOCUS & 2026 ROADMAP                            -->
 <!-- ======================================================= -->
 
-## 🎯 Continuous Focus & Objectives
+## Continuous Focus & Objectives
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Active Learning Areas</h3>
+      <h3> Active Learning Areas</h3>
       <ul>
         <li><strong>Data Structures &amp; Algorithms:</strong> Deepening competence in dynamic programming, graph theory, and computational complexity.</li>
         <li><strong>Backend Architecture:</strong> Designing modular microservices, RESTful interfaces, and idempotent data workflows.</li>
@@ -376,7 +376,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🏁 2026 Roadmap</h3>
+      <h3> 2026 Roadmap</h3>
       <ul>
         <li>[ ] Maintain consistent problem-solving practice across core algorithmic topics.</li>
         <li>[ ] Ship production-ready open-source contributions to developer toolkits.</li>
@@ -394,7 +394,7 @@
 <!-- CONTACT                                                 -->
 <!-- ======================================================= -->
 
-## 📬 Contact & Connect
+## Contact & Connect
 
 <p>
   Whether you're looking to discuss backend system architecture, open-source projects, or software engineering internship opportunities, feel free to reach out.
