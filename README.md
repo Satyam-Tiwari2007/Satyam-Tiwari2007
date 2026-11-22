@@ -118,11 +118,38 @@
 <!-- EXPERIENCE                                              -->
 <!-- ======================================================= -->
 
+<!-- ======================================================= -->
+<!-- EXPERIENCE                                              -->
+<!-- ======================================================= -->
+
 ## Professional Experience
 
 <table width="100%">
   <tr>
     <td>
+      <div align="left">
+        <h3> AI &amp; Networking Virtual Intern &bull; Cisco</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Duration-August%202026-049fd9?style=flat-square&logo=cisco&logoColor=white" alt="Duration" />
+          <img src="https://img.shields.io/badge/Domain-AI--Assisted%20Networking%20%26%20Systems-1e293b?style=flat-square&logo=python&logoColor=white" alt="Domain" />
+          <img src="https://img.shields.io/badge/Project-NetSage%20AI-10b981?style=flat-square&logo=github&logoColor=white" alt="Project" />
+        </p>
+        <ul>
+          <li><strong>AI-Assisted Network Troubleshooting:</strong> Engineered <strong>NetSage AI</strong>, an AI-driven troubleshooting solution designed for Cisco Packet Tracer environments to automate fault detection and diagnostic workflows.</li>
+          <li><strong>Software Implementation &amp; Debugging:</strong> Developed core application logic, structured logging, and modular components while executing systematic debugging and end-to-end testing to ensure system reliability.</li>
+          <li><strong>Version Control &amp; Collaboration:</strong> Managed codebase iterations, feature branching, and documentation using <strong>Git</strong> and <strong>GitHub</strong> following structured software engineering practices.</li>
+        </ul>
+        <p>
+          <strong>Core Tooling:</strong> 
+          <code>Python</code> 
+          <code>Cisco Packet Tracer</code> 
+          <code>AI/ML Workflows</code> 
+          <code>Git</code> 
+          <code>GitHub</code> 
+          <code>Debugging &amp; Testing</code>
+        </p>
+      </div>
+      <hr />
       <div align="left">
         <h3> UI/UX Design Intern &bull; EduSkills</h3>
         <p>
@@ -167,8 +194,6 @@
     </td>
   </tr>
 </table>
-
-<br />
 
 <!-- ======================================================= -->
 <!-- FEATURED PROJECTS                                       -->
